@@ -1,0 +1,14 @@
+# Computer Networks Lab
+ 
+Programs implemented as part of the Computer Networks lab coursework. Each folder is a self-contained experiment with its own code and README.
+ 
+## Experiments
+ 
+| # | Experiment | Concepts |
+|---|-----------|----------|
+| 1 | [TCP Client-Server: Matrix Type Classification](./exp1-tcp-matrix-classification) | TCP sockets, client-server model, serialization |
+ 
+## Setup
+ 
+All programs are written in Python 3. No external dependencies beyond the standard library.
+ 
