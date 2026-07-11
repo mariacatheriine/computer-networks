@@ -6,7 +6,7 @@ Programs implemented as part of the Computer Networks lab coursework. Each folde
  
 | # | Experiment | Concepts |
 |---|-----------|----------|
-| 1 | [TCP Client-Server: Matrix Type Classification](./exp1-tcp-matrix-classification) | TCP sockets, client-server model, serialization |
+| 1 | [TCP Client-Server: Matrix Type Classification](./tcp-client-server) | TCP sockets, client-server model, serialization |
  
 ## Setup
  
