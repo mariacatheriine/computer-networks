@@ -5,7 +5,7 @@ name = input("Enter your name: ")
 def receive():
     while True:
         try:
-            msg = c.recv(1024).
+            msg = c.recv(1024)
             if not msg:
                 break
             print(msg.decode())
