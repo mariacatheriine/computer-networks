@@ -16,9 +16,9 @@ print("Received Matrix:\n")
 for row in matrix:
     print(*row)
 
-upper = True;
-lower = True;
-diagonal = True;
+upper = True
+lower = True
+diagonal = True
 
 for i in range(n):
     for j in range(n):
